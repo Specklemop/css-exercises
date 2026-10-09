@@ -1,0 +1,15 @@
+.click-me,
+.no-click-me {
+    font-size: 28px;
+    font-family: Helvetica, sans-serif;
+}
+
+.click-me {
+    background-color: #000000;
+    color: #ffffff;
+}
+
+.no-click-me {
+    background-color: #ffff00;
+    color: #000000;
+}
